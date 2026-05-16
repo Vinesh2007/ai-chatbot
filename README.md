@@ -60,13 +60,12 @@ const CONFIG = {
 
 ## 📁 Project Structure
 ai-chatbot/
-│
-├── index.html       # Main HTML structure
-├── styles.css       # Styling
-├── script.js        # Chatbot logic + Groq API call
-├── config.js        # API key (gitignored, not pushed)
-├── .gitignore       # Ignores config.js
-└── README.md        # Project documentation
+index.html       # Main HTML structure
+styles.css       # Styling
+script.js        # Chatbot logic + Groq API call
+config.js        # API key (gitignored, not pushed)
+.gitignore       # Ignores config.js
+README.md        # Project documentation
 
 ---
 
