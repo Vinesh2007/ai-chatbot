@@ -1,12 +1,6 @@
 # AI Chatbot 🤖
 
-A simple AI-powered chatbot built with vanilla HTML, CSS, and JavaScript, powered by the **Groq API** and **LLaMA 3** model.
-
----
-
-## 📸 Preview
-
-> Add a screenshot of your chatbot here
+A simple AI-powered chatbot built with vanilla HTML, CSS, and JavaScript, powered by the Groq API and LLaMA 3 model.
 
 ---
 
@@ -65,3 +59,21 @@ const CONFIG = {
 ---
 
 ## 📁 Project Structure
+ai-chatbot/
+│
+├── index.html       # Main HTML structure
+├── styles.css       # Styling
+├── script.js        # Chatbot logic + Groq API call
+├── config.js        # API key (gitignored, not pushed)
+├── .gitignore       # Ignores config.js
+└── README.md        # Project documentation
+
+---
+
+## 🙌 Acknowledgements
+
+- [Groq](https://groq.com) for the free and fast API
+- [Meta LLaMA 3](https://ai.meta.com/llama/) for the AI model
+
+---
+
